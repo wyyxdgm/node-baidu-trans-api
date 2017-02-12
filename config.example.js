@@ -7,5 +7,9 @@ const config = {
 	key: "",
 
 	//请求地址
-	url: "http://api.fanyi.baidu.com/api/trans/vip/translate"
+	url: "http://api.fanyi.baidu.com/api/trans/vip/translate",
+
+	salt: "fuckyou"
 }
+
+module.exports = config;
