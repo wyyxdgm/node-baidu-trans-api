@@ -1,0 +1,22 @@
+{
+  "name": "node-baidu-trans-api",
+  "version": "1.0.0",
+  "description": "百度翻译API的封装 node.js版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxiqun/node-baidu-trans-api.git"
+  },
+  "author": "jessie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linxiqun/node-baidu-trans-api/issues"
+  },
+  "homepage": "https://github.com/linxiqun/node-baidu-trans-api#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
